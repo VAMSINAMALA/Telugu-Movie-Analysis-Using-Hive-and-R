@@ -79,3 +79,72 @@ This project demonstrates how Big Data tools like Hive combined with data visual
 Audience preferences
 Movie success factors
 Industry trends
+📚 Future Scope
+Build a movie recommendation system
+Predict movie success using ML models
+Include box office data for deeper analysis
+👨‍💻 Contributors
+N. Vamsi
+Team Members
+
+If you want, I can also:
+✅ Make this into a PDF report
+✅ Add GitHub badges & professional formatting
+✅ Customize it for job/interview use (very important for you)
+
+proper cp version
+
+Got it 👍 — here is a clean COPY-PASTE READY README (proper formatting for GitHub):
+
+📊 Telugu Movie Data Analysis using Hive and R
+📌 Project Overview
+
+This project analyzes Telugu movie data using Big Data technologies like Hive and visualization tools like R. It focuses on extracting meaningful insights such as trends, audience preferences, genre popularity, and factors affecting movie success.
+
+🎯 Objectives
+Analyze Telugu movie dataset using Hive queries
+Identify trends in movie production over the years
+Understand audience preferences using ratings
+Explore genre distribution and popularity
+Visualize insights using R and Python
+📂 Dataset Information
+Total Records: 1400
+Attributes:
+Movie Name
+Year
+Certificate
+Genre
+Overview
+Runtime
+Rating
+Movie Ratings Count
+⚙️ Technologies Used
+Python (Pandas, NumPy) – Data Preprocessing
+Hive (HDFS) – Big Data Query Processing
+R Programming – Visualization
+Google Colab – Development
+Hortonworks Sandbox – Hive Environment
+🧹 Data Preprocessing
+Handled missing values:
+Year → Filled with median
+Certificate & Genre → "Unknown"
+Overview → "No overview available"
+Removed duplicates
+Standardized data types
+Cleaned text fields
+🔍 Analysis Performed
+📅 Year-wise Analysis
+Number of movies released each year
+Trends in movie production
+⭐ Rating Analysis
+Top 10 highest-rated movies
+Movies with rating less than 5
+Average rating per year
+🎭 Genre Analysis
+Most common genres
+Count of movies per genre
+⏱ Runtime Analysis
+Movies with runtime > 150 minutes
+Runtime distribution
+🔎 Content Analysis
+Movies containing keywords like "love"
